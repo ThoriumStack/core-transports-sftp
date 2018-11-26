@@ -2,12 +2,10 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Runtime.InteropServices;
 using System.Text.RegularExpressions;
 using Renci.SshNet;
 
-
-namespace MyBucks.Core.Transports.SftpTransport
+namespace Thorium.Core.Transports.SftpTransport
 {
    public class SFtpTools
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using MyBucks.Core.DataIntegration.Interfaces;
 
-namespace MyBucks.Core.Transports.SftpTransport
+namespace Thorium.Core.Transports.SftpTransport
 {
  public class SftpTransport : IFileIntegrationTransport
     {

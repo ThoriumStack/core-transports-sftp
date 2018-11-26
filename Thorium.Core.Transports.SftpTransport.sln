@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBucks.Core.Transports.SftpTransport", "MyBucks.Core.Transports.SftpTransport\MyBucks.Core.Transports.SftpTransport.csproj", "{C7625308-FDD2-4AFC-918A-A55439A8C956}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thorium.Core.Transports.SftpTransport", "Thorium.Core.Transports.SftpTransport\Thorium.Core.Transports.SftpTransport.csproj", "{C7625308-FDD2-4AFC-918A-A55439A8C956}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
