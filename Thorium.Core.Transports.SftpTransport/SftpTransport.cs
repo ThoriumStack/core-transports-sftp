@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using MyBucks.Core.DataIntegration.Interfaces;
+using Thorium.Core.DataIntegration.Interfaces;
 
 namespace Thorium.Core.Transports.SftpTransport
 {
@@ -14,7 +14,7 @@ namespace Thorium.Core.Transports.SftpTransport
         public string Username { get; set; }
         public string Hostname { get; set; }
         /// <summary>
-        /// Prot number. Defaults to 22
+        /// Port number. Defaults to 22
         /// </summary>
         public int Port { get; set; } = 22;
 
